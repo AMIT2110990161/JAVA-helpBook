@@ -1,2 +1,5 @@
 1. convert String to char array
 	char[] charArr = str.toCharArray();
+
+2.int to string converter 
+ String s = number + "";
